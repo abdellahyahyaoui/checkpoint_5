@@ -1,3 +1,9 @@
+
+#crear bucle
+for i in range(1, 11):
+  print(i)
+
+
 # Crear una función de Python llamada suma que tome 3 argumentos y devuelva la suma de los 3.
 a = 60
 b = 90
